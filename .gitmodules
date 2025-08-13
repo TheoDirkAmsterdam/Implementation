@@ -1,0 +1,3 @@
+[submodule "ProcessCompEngine"]
+	path = ProcessCompEngine
+	url = https://git.simplex4data.de/open-source/simplexclient.git
